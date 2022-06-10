@@ -1,0 +1,9 @@
+[submodule "weather-forecast-challenge"]
+	path = brn-weather-forecast-challenge
+	url = https://github.com/Joao3run/brn-weather-forecast-challenge.git
+[submodule "forkify-web-challenge"]
+	path = brn-forkify-web-challenge
+	url = https://github.com/Joao3run/brn-forkify-web-challenge.git
+[submodule "forkify-mobile-challenge"]
+	path = brn-forkify-mobile-challenge
+	url = https://github.com/Joao3run/brn-forkify-mobile-challenge.git
